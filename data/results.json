@@ -1,0 +1,202 @@
+{
+ "method": "세전·USD·수정종가(배당 재투자)·연 1회 1월 리밸런싱·연말 종가 기준 연수익. 2026은 연초~마지막 공통 거래일. BTC-USD는 현물 가격, 수수료·세금·환율·국내 매수 경로 제외. D안의 10%는 이자 0 현금.",
+ "data_last_date": "2026-10-27",
+ "source": "Yahoo Finance via yfinance 0.2.66",
+ "prices_sha256": "5c2e1e173c6b022cbf88647e0fe9fc6bb1d2b02bc71938d70670908888a7d0da",
+ "asset_year_returns_pct": {
+  "2015": {
+   "BTC-USD": 34.5,
+   "QLD": 14.7,
+   "SCHD": -0.3
+  },
+  "2016": {
+   "BTC-USD": 123.8,
+   "QLD": 10.0,
+   "SCHD": 16.4
+  },
+  "2017": {
+   "BTC-USD": 1368.9,
+   "QLD": 70.3,
+   "SCHD": 20.8
+  },
+  "2018": {
+   "BTC-USD": -73.6,
+   "QLD": -8.3,
+   "SCHD": -5.6
+  },
+  "2019": {
+   "BTC-USD": 92.2,
+   "QLD": 81.7,
+   "SCHD": 27.3
+  },
+  "2020": {
+   "BTC-USD": 303.2,
+   "QLD": 88.9,
+   "SCHD": 15.0
+  },
+  "2021": {
+   "BTC-USD": 59.7,
+   "QLD": 54.7,
+   "SCHD": 29.9
+  },
+  "2022": {
+   "BTC-USD": -64.3,
+   "QLD": -60.5,
+   "SCHD": -3.3
+  },
+  "2023": {
+   "BTC-USD": 155.4,
+   "QLD": 117.7,
+   "SCHD": 4.5
+  },
+  "2024": {
+   "BTC-USD": 121.1,
+   "QLD": 42.8,
+   "SCHD": 11.7
+  },
+  "2025": {
+   "BTC-USD": -6.3,
+   "QLD": 30.4,
+   "SCHD": 4.3
+  },
+  "2026": {
+   "BTC-USD": -7.7,
+   "QLD": 28.4,
+   "SCHD": 31.2
+  }
+ },
+ "mix_year_returns_pct": {
+  "2015": {
+   "A_SCHD60_QLD40": 5.7,
+   "B_9010_dopamineBTC": 8.6,
+   "C_book_cons_BTC5": 7.2,
+   "D_dopamine_zero": 5.1
+  },
+  "2016": {
+   "A_SCHD60_QLD40": 13.9,
+   "B_9010_dopamineBTC": 24.9,
+   "C_book_cons_BTC5": 19.4,
+   "D_dopamine_zero": 12.5
+  },
+  "2017": {
+   "A_SCHD60_QLD40": 40.6,
+   "B_9010_dopamineBTC": 173.5,
+   "C_book_cons_BTC5": 107.1,
+   "D_dopamine_zero": 36.6
+  },
+  "2018": {
+   "A_SCHD60_QLD40": -6.7,
+   "B_9010_dopamineBTC": -13.3,
+   "C_book_cons_BTC5": -10.0,
+   "D_dopamine_zero": -6.0
+  },
+  "2019": {
+   "A_SCHD60_QLD40": 49.1,
+   "B_9010_dopamineBTC": 53.4,
+   "C_book_cons_BTC5": 51.2,
+   "D_dopamine_zero": 44.1
+  },
+  "2020": {
+   "A_SCHD60_QLD40": 44.6,
+   "B_9010_dopamineBTC": 70.4,
+   "C_book_cons_BTC5": 57.5,
+   "D_dopamine_zero": 40.1
+  },
+  "2021": {
+   "A_SCHD60_QLD40": 39.8,
+   "B_9010_dopamineBTC": 41.8,
+   "C_book_cons_BTC5": 40.8,
+   "D_dopamine_zero": 35.8
+  },
+  "2022": {
+   "A_SCHD60_QLD40": -26.2,
+   "B_9010_dopamineBTC": -30.0,
+   "C_book_cons_BTC5": -28.1,
+   "D_dopamine_zero": -23.5
+  },
+  "2023": {
+   "A_SCHD60_QLD40": 49.8,
+   "B_9010_dopamineBTC": 60.4,
+   "C_book_cons_BTC5": 55.1,
+   "D_dopamine_zero": 44.8
+  },
+  "2024": {
+   "A_SCHD60_QLD40": 24.1,
+   "B_9010_dopamineBTC": 33.8,
+   "C_book_cons_BTC5": 29.0,
+   "D_dopamine_zero": 21.7
+  },
+  "2025": {
+   "A_SCHD60_QLD40": 14.7,
+   "B_9010_dopamineBTC": 12.6,
+   "C_book_cons_BTC5": 13.7,
+   "D_dopamine_zero": 13.3
+  },
+  "2026": {
+   "A_SCHD60_QLD40": 30.1,
+   "B_9010_dopamineBTC": 26.3,
+   "C_book_cons_BTC5": 28.2,
+   "D_dopamine_zero": 27.1
+  }
+ },
+ "mix_stats": {
+  "A_SCHD60_QLD40": {
+   "growth_2015_2026ytd": 9.757,
+   "cagr_2015_2025": 20.1,
+   "worst_year": 2022,
+   "worst_year_ret": -26.2
+  },
+  "B_9010_dopamineBTC": {
+   "growth_2015_2026ytd": 25.459,
+   "cagr_2015_2025": 31.4,
+   "worst_year": 2022,
+   "worst_year_ret": -30.0
+  },
+  "C_book_cons_BTC5": {
+   "growth_2015_2026ytd": 16.759,
+   "cagr_2015_2025": 26.33,
+   "worst_year": 2022,
+   "worst_year_ret": -28.1
+  },
+  "D_dopamine_zero": {
+   "growth_2015_2026ytd": 8.08,
+   "cagr_2015_2025": 18.31,
+   "worst_year": 2022,
+   "worst_year_ret": -23.5
+  }
+ },
+ "btc_contribution_2022_pctp": -6.4,
+ "btc_total_loss_cap_pctp": -10.0,
+ "daily_mdd_pct": {
+  "A_SCHD60_QLD40": -41.0,
+  "B_9010_dopamineBTC": -40.3,
+  "C_book_cons_BTC5": -40.5,
+  "D_dopamine_zero": -37.2
+ },
+ "daily_mdd_trough": {
+  "A_SCHD60_QLD40": "2020-03-23",
+  "B_9010_dopamineBTC": "2020-03-23",
+  "C_book_cons_BTC5": "2020-03-23",
+  "D_dopamine_zero": "2020-03-23"
+ },
+ "cagr_by_start_to_2025": {
+  "2015": {
+   "A_SCHD60_QLD40": 20.1,
+   "B_9010_dopamineBTC": 31.4,
+   "C_book_cons_BTC5": 26.3,
+   "D_dopamine_zero": 18.3
+  },
+  "2018": {
+   "A_SCHD60_QLD40": 20.4,
+   "B_9010_dopamineBTC": 23.6,
+   "C_book_cons_BTC5": 22.1,
+   "D_dopamine_zero": 18.7
+  },
+  "2022": {
+   "A_SCHD60_QLD40": 12.0,
+   "B_9010_dopamineBTC": 14.1,
+   "C_book_cons_BTC5": 13.1,
+   "D_dopamine_zero": 11.2
+  }
+ }
+}
